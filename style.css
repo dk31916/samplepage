@@ -1,0 +1,158 @@
+
+.header{
+    background-color: brown;
+height: 100px;
+
+}
+h1{
+    margin-left: 50px;
+    color: antiquewhite;
+    font-family: bold;
+    background-color: brown;
+    padding: 21px;
+}
+p2{
+    font-size: 40px;
+    margin-left: 30%;
+}
+p1{
+    font-size: 40px;
+    margin-left: 30%;
+}
+ul.menu-bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    overflow: hidden;
+}
+
+li.menu-item {
+    float: left;
+}
+
+li.menu-item a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li.menu-item a:hover {
+    background-color: #444;
+}
+
+li.menu-item.dropdown {
+    position: relative;
+}
+
+ul.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #333;
+    min-width: 160px;
+    z-index: 1;
+}
+
+li.menu-item.dropdown:hover ul.dropdown-content {
+    display: block;
+}
+
+ul.dropdown-content li {
+    float: none;
+}
+.exp{
+    background-color: darkslategrey;
+    text-align: center;
+    height: 80px;
+    margin-top: -24px;
+    font-size: 50px;
+    color: beige;
+
+ 
+  }
+  .src{
+    background-color: rgb(233, 243, 240);
+    display: flex;
+    padding: 25px;
+    margin-right: 5px;
+  }
+  .src0{
+    text-align: center;
+    font-weight: bolder;
+  }
+  .src1{
+    text-align: center;
+    font-weight: bolder;
+
+  }
+  .src2{
+    text-align: center;
+    font-weight: bolder;
+
+  }
+
+
+  img{
+    width: 99%;
+    height: 320px;
+    text-align: center;
+  }
+  .hd1{
+font-size: 40px;
+color: rgb(18, 18, 29);
+padding: 5px;
+font-weight: bolder;
+  }
+  .gp-1{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+  }
+  .bd-group{
+background-color: bisque;
+font-size: 25px;
+font-weight: bolder;
+
+  }
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 4px;
+    text-align: center;
+}
+.footer-group {
+    background-color: #333;
+    color: white;
+    display: flex;
+    text-align: center;
+}
+p1{
+    margin: 60px;
+    text-align: center;
+    font-size: x-large;
+}
+.bus{
+    margin-left: 500px;
+    padding: 15px;
+    font-size: x-large;
+}
+.train{
+    margin-left: 500px;
+    padding: 15px;
+    font-size: x-large;
+
+}
+.flight{
+    margin-left: 500px;
+    padding: 15px;
+    font-size: x-large;
+
+}
+.htl{
+    margin-left: 560px;
+    padding: 15px;
+    font-size: x-large;
+
+}
